@@ -5,7 +5,7 @@ from .. import mail
 import os
 import sendgrid
 from sendgrid.helpers.mail import *
-sg = sendgrid.SendGridAPIClient(apikey="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")
+sg = sendgrid.SendGridAPIClient(apikey="SG.APIKey")
 
 
 
